@@ -55,7 +55,17 @@ let person ={
 }
 console.log(person.name +" is "+ person.age)
 
+//07
+<button onclick="alert('Try to fix it!')">Click Me</button>
 
+
+
+//08
+const cars = ["Volvo", "Jeep", "Mercedes"];
+alert(cars.length);
+
+const Brand = ["Volvo", "Jeep", "Mercedes"];
+Brand[0] = "Ford"; 
 
 
 
@@ -71,6 +81,11 @@ console.log(largestNumber);
 console.log(squareRoot);
 
 
+//10
+let x = 10;
+let y = 5;
+
+alert(x > y); 
 
 
 
